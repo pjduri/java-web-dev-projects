@@ -32,3 +32,14 @@ public class BalancedBrackets {
         return brackets == 0;
     }
 }
+
+
+
+
+
+
+
+
+
+
+//        if (str.indexOf("]") < str.indexOf("[")) return false;
